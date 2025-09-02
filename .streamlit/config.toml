@@ -1,0 +1,7 @@
+[theme]
+base="auto"                 # auto = clair/sombre selon utilisateur
+primaryColor="#E63946"      # rouge TBS
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F8F9FA"
+textColor="#000000"
+font="sans serif"
